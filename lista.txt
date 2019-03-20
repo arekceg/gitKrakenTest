@@ -4,3 +4,4 @@ chleb 4
 jabłka 5
 parówki 2
 mięso mielone
+tofu

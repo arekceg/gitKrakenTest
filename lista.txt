@@ -12,10 +12,14 @@ cynamon
 ===SŁONY_FARSZ
 ziemniaki
 cebula
-==MIESNY_JEZ
+===MIESNY_JEZ
 parowki
 mieso mielone
 tatar
 szynka
 karkowka
 korniszony
+===SALATKA
+salata
+szpinak
+pomidory

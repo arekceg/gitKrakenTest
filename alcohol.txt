@@ -2,4 +2,4 @@
 Beer
 Wine
 Whikskey
-Cider
+Vodka

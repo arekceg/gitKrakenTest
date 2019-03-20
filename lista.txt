@@ -3,8 +3,12 @@ jajka 3
 chleb 4
 jabłka 5
 tofu 2
-makrela
-włoszczyzna
-parówki 2
-mięso mielone
-
+===NALEŚNIKI
+mąka
+sól
+===SŁODKI_FARSZ
+truskawki
+cynamon
+===SŁONY_FARSZ
+ziemniaki
+cebula

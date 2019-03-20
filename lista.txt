@@ -9,3 +9,6 @@ sól
 ===SŁODKI_FARSZ
 truskawki
 cynamon
+===SŁONY_FARSZ
+ziemniaki
+cebula

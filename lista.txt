@@ -1,0 +1,5 @@
+mleko 2
+jajka 3
+chleb 4
+jabłka 5
+
